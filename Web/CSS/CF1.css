@@ -27,3 +27,12 @@
     text-align: center;
     padding: 15px;
   }
+
+  .titleCard {
+    background-color: #251747;
+    padding: 20px;
+    margin-top: 15px;
+    border-radius: 7px;
+    font-size: 2.1rem;
+    color: azure;
+  }
