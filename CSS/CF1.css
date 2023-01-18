@@ -2,6 +2,7 @@
     background-color: #0f0d14;
     overflow: hidden;
     border-radius: 9px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   }
   
   .nav a {
@@ -35,6 +36,7 @@
     border-radius: 7px;
     font-size: 2.1rem;
     color: rgba(184, 0, 0, 0.845);
+    font-family: sans-serif;
   }
 
   .Footer {
